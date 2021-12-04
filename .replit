@@ -1,0 +1,2 @@
+language = "bash"
+run = "swift p1.swift"
